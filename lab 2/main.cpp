@@ -1130,7 +1130,6 @@ int main(int argc, const char * argv[]) {
         cout << "\n";
     }
 
-    char c; cin >> c;
     return 0;
     
 }
